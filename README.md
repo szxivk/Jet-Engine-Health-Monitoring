@@ -28,11 +28,11 @@ The model categorizes engine health into the following system for maintenance de
 * **Generalization:** Hyperparameter tuning increased Test Set accuracy from **67% to 69%** and nearly doubled the R2 score.
 * **Safety First:** The model successfully minimizes "False Negatives" (predicting 'Good' when an engine is actually in 'Warning' state), which is the most critical metric for aviation safety.
 
-![Confusion Matrix](images/safety-critical-matrix.png)
+![Confusion Matrix](images/safety-critical-matrix.png) <br>
 *(Figure 1: Confusion Matrix showing high recall for 'Warning' state to prevent false negatives)*
 
 
-**🛠️ Usage
+## 🛠️ Usage
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/szxivk/jet-engine-health-monitoring.git](https://github.com/szxivk/jet-engine-health-monitoring.git)
