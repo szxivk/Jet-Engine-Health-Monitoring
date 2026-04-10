@@ -1,4 +1,4 @@
-# ✈️ Jet Engine Health Monitoring System
+# Jet Engine Health Monitoring System
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue) ![Model](https://img.shields.io/badge/Model-CatBoost-green) ![Status](https://img.shields.io/badge/Status-Complete-green)
 
